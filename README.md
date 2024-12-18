@@ -2,7 +2,7 @@
 
 
 
-在一年前，我已经基于mnn-llm在android端部署了Qwen1.5-0.5b-chat,当时mmm-llm是阿里工程师的一个私有开源项目基于MNN，现在MNN官方集成了这部分代码，并且新增了Diffusion Model部署的支持，MNN将该部分代码集成在了transformer文件夹下。
+在一年前，我已经基于mnn-llm在android端部署了Qwen1.5-0.5b-chat,当时mnn-llm是阿里工程师的一个私有开源项目基于MNN，现在MNN官方集成了这部分代码，并且新增了Diffusion Model部署的支持，MNN将该部分代码集成在了transformer文件夹下。
 
 可以参考之前的项目: <https://github.com/DataXujing/Qwen1.5-0.5b-chat-android>
 
